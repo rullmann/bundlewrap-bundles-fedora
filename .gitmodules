@@ -1,0 +1,27 @@
+[submodule "bundles/firewalld"]
+	path = bundles/firewalld
+	url = git@github.com:rullmann/bundlewrap-firewalld.git
+[submodule "bundles/fish"]
+	path = bundles/fish
+	url = git@github.com:rullmann/bundlewrap-fish.git
+[submodule "bundles/nfs-server"]
+	path = bundles/nfs-server
+	url = git@github.com:rullmann/bundlewrap-nfs-server.git
+[submodule "bundles/ntp"]
+	path = bundles/ntp
+	url = git@github.com:rullmann/bundlewrap-ntp.git
+[submodule "bundles/packages-base"]
+	path = bundles/packages-base
+	url = git@github.com:rullmann/bundlewrap-packages-base.git
+[submodule "bundles/packages-development"]
+	path = bundles/packages-development
+	url = git@github.com:rullmann/bundlewrap-packages-development.git
+[submodule "bundles/python"]
+	path = bundles/python
+	url = git@github.com:rullmann/bundlewrap-python.git
+[submodule "bundles/vnstat"]
+	path = bundles/vnstat
+	url = git@github.com:rullmann/bundlewrap-vnstat.git
+[submodule "bundles/yum"]
+	path = bundles/yum
+	url = git@github.com:rullmann/bundlewrap-yum.git
