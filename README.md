@@ -15,10 +15,11 @@ But tweaks may be required. For example the package `vnstat` is not available in
   * [yum](https://github.com/rullmann/bundlewrap-yum)
 
 * Base OS extensions
-  * [Fish shell](https://github.com/rullmann/bundlewrap-fish)
   * [firewalld](https://github.com/rullmann/bundlewrap-firewalld)
-  * [vnstat](https://github.com/rullmann/bundlewrap-vnstat)
+  * [Fish shell](https://github.com/rullmann/bundlewrap-fish)
+  * [htop](https://github.com/rullmann/bundlewrap-htop)
   * [python](https://github.com/rullmann/bundlewrap-python)
+  * [vnstat](https://github.com/rullmann/bundlewrap-vnstat)
 
 * Additional services
   * [NFS Server](https://github.com/rullmann/bundlewrap-nfs-server)
@@ -28,6 +29,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 
   git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
   git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
+  git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
   git submodule add git@github.com:rullmann/bundlewrap-nfs-server.git bundles/nfs-server
   git submodule add git@github.com:rullmann/bundlewrap-ntp.git bundles/ntp
   git submodule add git@github.com:rullmann/bundlewrap-packages-base.git bundles/packages-base
