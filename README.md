@@ -29,7 +29,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 * User management
   * [users](https://github.com/rullmann/bundlewrap-users)
 
-### Pick your bunbdles!
+### Pick your bundles!
 
   git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
   git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
