@@ -37,3 +37,6 @@
 [submodule "bundles/hostname"]
 	path = bundles/hostname
 	url = git@github.com:rullmann/bundlewrap-hostname.git
+[submodule "bundles/postgresql"]
+	path = bundles/postgresql
+	url = git@github.com:rullmann/bundlewrap-postgresql.git

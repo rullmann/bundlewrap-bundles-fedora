@@ -26,6 +26,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 * Additional services
   * [NFS Server](https://github.com/rullmann/bundlewrap-nfs-server)
   * [NTP Client](https://github.com/rullmann/bundlewrap-ntp)
+  * [PostgreSQL Server](https://github.com/rullmann/bundlewrap-postgresql)
 
 * User management
   * [users](https://github.com/rullmann/bundlewrap-users)
@@ -41,6 +42,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
   git submodule add git@github.com:rullmann/bundlewrap-openssh.git bundles/openssh
   git submodule add git@github.com:rullmann/bundlewrap-packages-base.git bundles/packages-base
   git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bundles/packages-development
+  git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/postgresql
   git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
   git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
   git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
