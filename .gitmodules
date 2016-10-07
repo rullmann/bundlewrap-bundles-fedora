@@ -34,3 +34,6 @@
 [submodule "bundles/users"]
 	path = bundles/users
 	url = git@github.com:rullmann/bundlewrap-users.git
+[submodule "bundles/hostname"]
+	path = bundles/hostname
+	url = git@github.com:rullmann/bundlewrap-hostname.git

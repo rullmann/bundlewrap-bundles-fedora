@@ -10,6 +10,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 ## Bundles
 
 * Base OS and services
+  * [hostname](https://github.com/rullmann/bundlewrap-hostname)
   * [Base packages](https://github.com/rullmann/bundlewrap-packages-base)
   * [Development packages](https://github.com/rullmann/bundlewrap-packages-development)
   * [yum](https://github.com/rullmann/bundlewrap-yum)
@@ -33,6 +34,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 
   git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
   git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
+  git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
   git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
   git submodule add git@github.com:rullmann/bundlewrap-nfs-server.git bundles/nfs-server
   git submodule add git@github.com:rullmann/bundlewrap-ntp.git bundles/ntp
