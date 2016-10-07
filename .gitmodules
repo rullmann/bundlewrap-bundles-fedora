@@ -28,3 +28,6 @@
 [submodule "bundles/htop"]
 	path = bundles/htop
 	url = git@github.com:rullmann/bundlewrap-htop.git
+[submodule "bundles/openssh"]
+	path = bundles/openssh
+	url = git@github.com:rullmann/bundlewrap-openssh.git
