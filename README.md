@@ -34,18 +34,18 @@ But tweaks may be required. For example the package `vnstat` is not available in
 ### Pick your bundles!
 
 <pre>
-  git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
-  git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
-  git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
-  git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
-  git submodule add git@github.com:rullmann/bundlewrap-nfs-server.git bundles/nfs-server
-  git submodule add git@github.com:rullmann/bundlewrap-ntp.git bundles/ntp
-  git submodule add git@github.com:rullmann/bundlewrap-openssh.git bundles/openssh
-  git submodule add git@github.com:rullmann/bundlewrap-packages-base.git bundles/packages-base
-  git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bundles/packages-development
-  git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/postgresql
-  git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
-  git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
-  git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
-  git submodule add git@github.com:rullmann/bundlewrap-yum.git bundles/yum
+git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
+git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
+git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
+git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
+git submodule add git@github.com:rullmann/bundlewrap-nfs-server.git bundles/nfs-server
+git submodule add git@github.com:rullmann/bundlewrap-ntp.git bundles/ntp
+git submodule add git@github.com:rullmann/bundlewrap-openssh.git bundles/openssh
+git submodule add git@github.com:rullmann/bundlewrap-packages-base.git bundles/packages-base
+git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bundles/packages-development
+git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/postgresql
+git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
+git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
+git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
+git submodule add git@github.com:rullmann/bundlewrap-yum.git bundles/yum
 </pre>
