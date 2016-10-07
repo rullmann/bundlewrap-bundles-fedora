@@ -31,3 +31,6 @@
 [submodule "bundles/openssh"]
 	path = bundles/openssh
 	url = git@github.com:rullmann/bundlewrap-openssh.git
+[submodule "bundles/users"]
+	path = bundles/users
+	url = git@github.com:rullmann/bundlewrap-users.git
