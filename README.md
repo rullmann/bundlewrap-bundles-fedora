@@ -19,7 +19,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
   * [firewalld](https://github.com/rullmann/bundlewrap-firewalld)
   * [Fish shell](https://github.com/rullmann/bundlewrap-fish)
   * [htop](https://github.com/rullmann/bundlewrap-htop)
-  * [openssh](https://github.com/rullmann/bundlewrap-openssh)
+  * [OpenSSH server](https://github.com/rullmann/bundlewrap-openssh)
   * [python](https://github.com/rullmann/bundlewrap-python)
   * [vnstat](https://github.com/rullmann/bundlewrap-vnstat)
 
