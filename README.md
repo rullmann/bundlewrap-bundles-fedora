@@ -18,12 +18,16 @@ But tweaks may be required. For example the package `vnstat` is not available in
   * [firewalld](https://github.com/rullmann/bundlewrap-firewalld)
   * [Fish shell](https://github.com/rullmann/bundlewrap-fish)
   * [htop](https://github.com/rullmann/bundlewrap-htop)
+  * [openssh](https://github.com/rullmann/bundlewrap-openssh)
   * [python](https://github.com/rullmann/bundlewrap-python)
   * [vnstat](https://github.com/rullmann/bundlewrap-vnstat)
 
 * Additional services
   * [NFS Server](https://github.com/rullmann/bundlewrap-nfs-server)
   * [NTP Client](https://github.com/rullmann/bundlewrap-ntp)
+
+* User management
+  * [users](https://github.com/rullmann/bundlewrap-users)
 
 ### Pick your bunbdles!
 
@@ -32,8 +36,10 @@ But tweaks may be required. For example the package `vnstat` is not available in
   git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
   git submodule add git@github.com:rullmann/bundlewrap-nfs-server.git bundles/nfs-server
   git submodule add git@github.com:rullmann/bundlewrap-ntp.git bundles/ntp
+  git submodule add git@github.com:rullmann/bundlewrap-openssh.git bundles/openssh
   git submodule add git@github.com:rullmann/bundlewrap-packages-base.git bundles/packages-base
   git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bundles/packages-development
   git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
+  git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
   git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
   git submodule add git@github.com:rullmann/bundlewrap-yum.git bundles/yum
