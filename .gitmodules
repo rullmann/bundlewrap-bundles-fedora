@@ -40,3 +40,6 @@
 [submodule "bundles/postgresql"]
 	path = bundles/postgresql
 	url = git@github.com:rullmann/bundlewrap-postgresql.git
+[submodule "bundles/collectd"]
+	path = bundles/collectd
+	url = git@github.com:rullmann/bundlewrap-collectd.git

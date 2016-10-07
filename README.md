@@ -24,6 +24,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
   * [vnstat](https://github.com/rullmann/bundlewrap-vnstat)
 
 * Additional services
+  * [collectd monitoring](https://github.com/rullmann/bundlewrap-collectd)
   * [NFS Server](https://github.com/rullmann/bundlewrap-nfs-server)
   * [NTP Client](https://github.com/rullmann/bundlewrap-ntp)
   * [PostgreSQL Server](https://github.com/rullmann/bundlewrap-postgresql)
@@ -34,6 +35,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 ### Pick your bundles!
 
 <pre>
+git submodule add git@github.com:rullmann/bundlewrap-collectd.git bundles/collectd
 git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
 git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
 git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
