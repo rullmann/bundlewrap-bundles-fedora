@@ -46,3 +46,6 @@
 [submodule "bundles/letsencrypt"]
 	path = bundles/letsencrypt
 	url = git@github.com:rullmann/bundlewrap-letsencrypt.git
+[submodule "bundles/tt-rss"]
+	path = bundles/tt-rss
+	url = git@github.com:rullmann/bundlewrap-ttrss.git
