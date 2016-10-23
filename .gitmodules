@@ -49,3 +49,6 @@
 [submodule "bundles/tt-rss"]
 	path = bundles/tt-rss
 	url = git@github.com:rullmann/bundlewrap-ttrss.git
+[submodule "bundles/jenkins"]
+	path = bundles/jenkins
+	url = git@github.com:rullmann/bundlewrap-jenkins.git

@@ -25,6 +25,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 
 * Additional services
   * [collectd monitoring](https://github.com/rullmann/bundlewrap-collectd)
+  * [Jenkins CI](https://github.com/rullmann/bundlewrap-jenkins)
   * [Let's Encrypt](https://github.com/rullmann/bundlewrap-letsencrypt)
   * [NFS Server](https://github.com/rullmann/bundlewrap-nfs-server)
   * [NTP Client](https://github.com/rullmann/bundlewrap-ntp)
@@ -42,6 +43,7 @@ git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firew
 git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
 git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
 git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
+git submodule add git@github.com:rullmann/bundlewrap-jenkins.git bundles/jenkins
 git submodule add git@github.com:rullmann/bundlewrap-letsencrypt.git bundles/letsencrypt
 git submodule add git@github.com:rullmann/bundlewrap-nfs-server.git bundles/nfs-server
 git submodule add git@github.com:rullmann/bundlewrap-ntp.git bundles/ntp
