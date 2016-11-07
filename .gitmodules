@@ -52,3 +52,6 @@
 [submodule "bundles/jenkins"]
 	path = bundles/jenkins
 	url = git@github.com:rullmann/bundlewrap-jenkins.git
+[submodule "bundles/nginx"]
+	path = bundles/nginx
+	url = git@github.com:rullmann/bundlewrap-nginx.git
