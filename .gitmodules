@@ -4,3 +4,54 @@
 [submodule "bundles/dnf"]
 	path = bundles/dnf
 	url = git@github.com:rullmann/bundlewrap-dnf.git
+[submodule "bundles/collectd"]
+	path = bundles/collectd
+	url = git@github.com:rullmann/bundlewrap-collectd.git
+[submodule "bundles/firewalld"]
+	path = bundles/firewalld
+	url = git@github.com:rullmann/bundlewrap-firewalld.git
+[submodule "bundles/fish"]
+	path = bundles/fish
+	url = git@github.com:rullmann/bundlewrap-fish.git
+[submodule "bundles/hostname"]
+	path = bundles/hostname
+	url = git@github.com:rullmann/bundlewrap-hostname.git
+[submodule "bundles/htop"]
+	path = bundles/htop
+	url = git@github.com:rullmann/bundlewrap-htop.git
+[submodule "bundles/jenkins"]
+	path = bundles/jenkins
+	url = git@github.com:rullmann/bundlewrap-jenkins.git
+[submodule "bundles/letsencrypt"]
+	path = bundles/letsencrypt
+	url = git@github.com:rullmann/bundlewrap-letsencrypt.git
+[submodule "bundles/nfs-server"]
+	path = bundles/nfs-server
+	url = git@github.com:rullmann/bundlewrap-nfs-server.git
+[submodule "bundles/ntp"]
+	path = bundles/ntp
+	url = git@github.com:rullmann/bundlewrap-ntp.git
+[submodule "bundles/openssh"]
+	path = bundles/openssh
+	url = git@github.com:rullmann/bundlewrap-openssh.git
+[submodule "bundles/packages-base"]
+	path = bundles/packages-base
+	url = git@github.com:rullmann/bundlewrap-packages-base.git
+[submodule "bundles/postgresql"]
+	path = bundles/postgresql
+	url = git@github.com:rullmann/bundlewrap-postgresql.git
+[submodule "bundles/python"]
+	path = bundles/python
+	url = git@github.com:rullmann/bundlewrap-python.git
+[submodule "bundles/tt-rss"]
+	path = bundles/tt-rss
+	url = git@github.com:rullmann/bundlewrap-ttrss.git
+[submodule "bundles/users"]
+	path = bundles/users
+	url = git@github.com:rullmann/bundlewrap-users.git
+[submodule "bundles/vnstat"]
+	path = bundles/vnstat
+	url = git@github.com:rullmann/bundlewrap-vnstat.git
+[submodule "bundles/packages-development"]
+	path = bundles/packages-development
+	url = git@github.com:rullmann/bundlewrap-packages-development.git
