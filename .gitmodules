@@ -22,9 +22,6 @@
 [submodule "bundles/vnstat"]
 	path = bundles/vnstat
 	url = git@github.com:rullmann/bundlewrap-vnstat.git
-[submodule "bundles/yum"]
-	path = bundles/yum
-	url = git@github.com:rullmann/bundlewrap-yum.git
 [submodule "bundles/htop"]
 	path = bundles/htop
 	url = git@github.com:rullmann/bundlewrap-htop.git
