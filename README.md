@@ -10,10 +10,10 @@ But tweaks may be required. For example the package `vnstat` is not available in
 ## Bundles
 
 * Base OS and services
+  * [dnf](https://github.com/rullmann/bundlewrap-dnf)
   * [hostname](https://github.com/rullmann/bundlewrap-hostname)
   * [Base packages](https://github.com/rullmann/bundlewrap-packages-base)
   * [Development packages](https://github.com/rullmann/bundlewrap-packages-development)
-  * [yum](https://github.com/rullmann/bundlewrap-yum)
 
 * Base OS extensions
   * [firewalld](https://github.com/rullmann/bundlewrap-firewalld)
@@ -40,6 +40,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 
 <pre>
 git submodule add git@github.com:rullmann/bundlewrap-collectd.git bundles/collectd
+git submodule add git@github.com:rullmann/bundlewrap-dnf.git bundles/dnf
 git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
 git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
 git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
@@ -57,5 +58,4 @@ git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss
 git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
 git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
-git submodule add git@github.com:rullmann/bundlewrap-yum.git bundles/yum
 </pre>

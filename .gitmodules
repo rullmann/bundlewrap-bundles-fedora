@@ -52,3 +52,6 @@
 [submodule "bundles/nginx"]
 	path = bundles/nginx
 	url = git@github.com:rullmann/bundlewrap-nginx.git
+[submodule "bundles/dnf"]
+	path = bundles/dnf
+	url = git@github.com:rullmann/bundlewrap-dnf.git
