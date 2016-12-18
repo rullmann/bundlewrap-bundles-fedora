@@ -55,3 +55,6 @@
 [submodule "bundles/packages-development"]
 	path = bundles/packages-development
 	url = git@github.com:rullmann/bundlewrap-packages-development.git
+[submodule "bundles/monit"]
+	path = bundles/monit
+	url = git@github.com:rullmann/bundlewrap-monit.git
