@@ -31,6 +31,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
   * [NFS Server](https://github.com/rullmann/bundlewrap-nfs-server)
   * [nginx Webserver](https://github.com/rullmann/bundlewrap-nginx)
   * [NTP Client](https://github.com/rullmann/bundlewrap-ntp)
+  * [php-fpm](https://github.com/rullmann/bundlewrap-php)
   * [PostgreSQL Server](https://github.com/rullmann/bundlewrap-postgresql)
   * [tt-rss](https://github.com/rullmann/bundlewrap-ttrss)
 
@@ -55,6 +56,7 @@ git submodule add git@github.com:rullmann/bundlewrap-ntp.git bundles/ntp
 git submodule add git@github.com:rullmann/bundlewrap-openssh.git bundles/openssh
 git submodule add git@github.com:rullmann/bundlewrap-packages-base.git bundles/packages-base
 git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bundles/packages-development
+git submodule add git@github.com:rullmann/bundlewrap-php.git bundles/php
 git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/postgresql
 git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss

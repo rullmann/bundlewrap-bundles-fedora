@@ -58,3 +58,6 @@
 [submodule "bundles/monit"]
 	path = bundles/monit
 	url = git@github.com:rullmann/bundlewrap-monit.git
+[submodule "bundles/php"]
+	path = bundles/php
+	url = git@github.com:rullmann/bundlewrap-php.git
