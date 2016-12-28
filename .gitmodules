@@ -61,3 +61,6 @@
 [submodule "bundles/php"]
 	path = bundles/php
 	url = git@github.com:rullmann/bundlewrap-php.git
+[submodule "bundles/hddtemp"]
+	path = bundles/hddtemp
+	url = git@github.com:rullmann/bundlewrap-hddtemp.git
