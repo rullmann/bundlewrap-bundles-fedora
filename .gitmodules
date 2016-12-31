@@ -64,3 +64,6 @@
 [submodule "bundles/hddtemp"]
 	path = bundles/hddtemp
 	url = git@github.com:rullmann/bundlewrap-hddtemp.git
+[submodule "bundles/temper"]
+	path = bundles/temper
+	url = git@github.com:rullmann/bundlewrap-temper.git

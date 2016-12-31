@@ -34,6 +34,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
   * [NTP Client](https://github.com/rullmann/bundlewrap-ntp)
   * [php-fpm](https://github.com/rullmann/bundlewrap-php)
   * [PostgreSQL Server](https://github.com/rullmann/bundlewrap-postgresql)
+  * [TEMPer](https://github.com/rullmann/bundlewrap-temper)
   * [tt-rss](https://github.com/rullmann/bundlewrap-ttrss)
 
 * User management
@@ -61,6 +62,7 @@ git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bu
 git submodule add git@github.com:rullmann/bundlewrap-php.git bundles/php
 git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/postgresql
 git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
+git submodule add git@github.com:rullmann/bundlewrap-temper.git bundles/temper
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss
 git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
 git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
