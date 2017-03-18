@@ -25,6 +25,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 
 * Additional services
   * [collectd monitoring](https://github.com/rullmann/bundlewrap-collectd)
+  * [collectd Synology monitoring](https://github.com/rullmann/bundlewrap-collectd-synology)
   * [hddtemp](https://github.com/rullmann/bundlewrap-hddtemp)
   * [Jenkins CI](https://github.com/rullmann/bundlewrap-jenkins)
   * [Let's Encrypt](https://github.com/rullmann/bundlewrap-letsencrypt)
@@ -44,6 +45,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
 
 <pre>
 git submodule add git@github.com:rullmann/bundlewrap-collectd.git bundles/collectd
+git submodule add git@github.com:rullmann/bundlewrap-collectd-synology.git bundles/collectd-synology
 git submodule add git@github.com:rullmann/bundlewrap-dnf.git bundles/dnf
 git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
 git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish

@@ -67,3 +67,6 @@
 [submodule "bundles/temper"]
 	path = bundles/temper
 	url = git@github.com:rullmann/bundlewrap-temper.git
+[submodule "bundles/collectd-synology"]
+	path = bundles/collectd-synology
+	url = git@github.com:rullmann/bundlewrap-collectd-synology.git
