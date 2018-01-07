@@ -2,9 +2,9 @@
 
 This repo provides an overview for my public [bundlewrap](http://bundlewrap.org/) bundles.
 
-Most of the bundles have been tested with Fedora 24 as well as Fedberry 24, a derivate to run Fedora on a Raspberry Pi.
+Most of the bundles have been tested with Fedora 26 and 27.
 
-Most of the bundles can work with CentOS or any other RHEL derivate as well.
+Many of the bundles can work with CentOS or any other RHEL derivate as well.
 But tweaks may be required. For example the package `vnstat` is not available in the CentOS Repos. EPEL must be installed before the vnstat bundle can be used.
 
 ## Bundles
