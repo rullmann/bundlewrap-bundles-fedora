@@ -79,3 +79,6 @@
 [submodule "bundles/systemd"]
 	path = bundles/systemd
 	url = git@github.com:rullmann/bundlewrap-systemd.git
+[submodule "bundles/smartmontools"]
+	path = bundles/smartmontools
+	url = git@github.com:rullmann/bundlewrap-smartmontools.git

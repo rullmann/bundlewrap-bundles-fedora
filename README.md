@@ -20,6 +20,7 @@ But some changes may be required. For example the package `vnstat` is not availa
   * [firewalld](https://github.com/rullmann/bundlewrap-firewalld)
   * [Fish shell](https://github.com/rullmann/bundlewrap-fish)
   * [htop](https://github.com/rullmann/bundlewrap-htop)
+  * [smartmontools](https://github.com/rullmann/bundlewrap-smartmontools)
   * [OpenSSH server](https://github.com/rullmann/bundlewrap-openssh)
   * [python](https://github.com/rullmann/bundlewrap-python)
   * [vim](https://github.com/rullmann/bundlewrap-vim)
@@ -67,6 +68,7 @@ git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bu
 git submodule add git@github.com:rullmann/bundlewrap-php.git bundles/php
 git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/postgresql
 git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
+git submodule add git@github.com:rullmann/bundlewrap-smartmontools.git bundles/smartmontools
 git submodule add git@github.com:rullmann/bundlewrap-systemd.git bundles/systemd
 git submodule add git@github.com:rullmann/bundlewrap-temper.git bundles/temper
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss
