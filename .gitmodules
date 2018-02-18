@@ -88,3 +88,6 @@
 [submodule "bundles/lm-sensors"]
 	path = bundles/lm-sensors
 	url = git@github.com:rullmann/bundlewrap-lm-sensors.git
+[submodule "bundles/haproxy"]
+	path = bundles/haproxy
+	url = git@github.com:rullmann/bundlewrap-haproxy.git

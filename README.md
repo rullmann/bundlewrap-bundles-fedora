@@ -31,6 +31,7 @@ But some changes may be required. For example the package `vnstat` is not availa
 * Additional services
   * [collectd monitoring](https://github.com/rullmann/bundlewrap-collectd)
   * [collectd Synology monitoring](https://github.com/rullmann/bundlewrap-collectd-synology)
+  * [haproxy](https://github.com/rullmann/bundlewrap-haproxy)
   * [hddtemp](https://github.com/rullmann/bundlewrap-hddtemp)
   * [Jenkins CI](https://github.com/rullmann/bundlewrap-jenkins)
   * [Let's Encrypt](https://github.com/rullmann/bundlewrap-letsencrypt)
@@ -56,6 +57,7 @@ git submodule add git@github.com:rullmann/bundlewrap-collectd-synology.git bundl
 git submodule add git@github.com:rullmann/bundlewrap-dnf.git bundles/dnf
 git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
 git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
+git submodule add git@github.com:rullmann/bundlewrap-haproxy.git bundles/haproxy
 git submodule add git@github.com:rullmann/bundlewrap-hddtemp.git bundles/hddtemp
 git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
 git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
