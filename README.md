@@ -14,6 +14,7 @@ But some changes may be required. For example the package `vnstat` is not availa
   * [hostname](https://github.com/rullmann/bundlewrap-hostname)
   * [Base packages](https://github.com/rullmann/bundlewrap-packages-base)
   * [Development packages](https://github.com/rullmann/bundlewrap-packages-development)
+  * [systemd](https://github.com/rullmann/bundlewrap-systemd)
 
 * Base OS extensions
   * [firewalld](https://github.com/rullmann/bundlewrap-firewalld)
@@ -66,6 +67,7 @@ git submodule add git@github.com:rullmann/bundlewrap-packages-development.git bu
 git submodule add git@github.com:rullmann/bundlewrap-php.git bundles/php
 git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/postgresql
 git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
+git submodule add git@github.com:rullmann/bundlewrap-systemd.git bundles/systemd
 git submodule add git@github.com:rullmann/bundlewrap-temper.git bundles/temper
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss
 git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users

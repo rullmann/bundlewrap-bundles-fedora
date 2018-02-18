@@ -76,3 +76,6 @@
 [submodule "bundles/vim"]
 	path = bundles/vim
 	url = git@github.com:rullmann/bundlewrap-vim.git
+[submodule "bundles/systemd"]
+	path = bundles/systemd
+	url = git@github.com:rullmann/bundlewrap-systemd.git
