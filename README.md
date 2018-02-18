@@ -21,6 +21,7 @@ But some changes may be required. For example the package `vnstat` is not availa
   * [htop](https://github.com/rullmann/bundlewrap-htop)
   * [OpenSSH server](https://github.com/rullmann/bundlewrap-openssh)
   * [python](https://github.com/rullmann/bundlewrap-python)
+  * [vim](https://github.com/rullmann/bundlewrap-vim)
   * [vnstat](https://github.com/rullmann/bundlewrap-vnstat)
 
 * Additional services
@@ -68,6 +69,7 @@ git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
 git submodule add git@github.com:rullmann/bundlewrap-temper.git bundles/temper
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss
 git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
+git submodule add git@github.com:rullmann/bundlewrap-vim.git bundles/vim
 git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
 git submodule add git@github.com:rullmann/bundlewrap-xmr-stak.git bundles/xmr-stak
 </pre>

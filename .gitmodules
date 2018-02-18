@@ -73,3 +73,6 @@
 [submodule "bundles/xmr-stak"]
 	path = bundles/xmr-stak
 	url = git@github.com:rullmann/bundlewrap-xmr-stak.git
+[submodule "bundles/vim"]
+	path = bundles/vim
+	url = git@github.com:rullmann/bundlewrap-vim.git
