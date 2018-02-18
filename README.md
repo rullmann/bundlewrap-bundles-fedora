@@ -10,6 +10,7 @@ But some changes may be required. For example the package `vnstat` is not availa
 ## Bundles
 
 * Base OS and services
+  * [chrony](https://github.com/rullmann/bundlewrap-chrony)
   * [dnf](https://github.com/rullmann/bundlewrap-dnf)
   * [hostname](https://github.com/rullmann/bundlewrap-hostname)
   * [Base packages](https://github.com/rullmann/bundlewrap-packages-base)
@@ -48,6 +49,7 @@ But some changes may be required. For example the package `vnstat` is not availa
 ### Pick your bundles!
 
 <pre>
+git submodule add git@github.com:rullmann/bundlewrap-chrony.git bundles/chrony
 git submodule add git@github.com:rullmann/bundlewrap-collectd.git bundles/collectd
 git submodule add git@github.com:rullmann/bundlewrap-collectd-synology.git bundles/collectd-synology
 git submodule add git@github.com:rullmann/bundlewrap-dnf.git bundles/dnf

@@ -82,3 +82,6 @@
 [submodule "bundles/smartmontools"]
 	path = bundles/smartmontools
 	url = git@github.com:rullmann/bundlewrap-smartmontools.git
+[submodule "bundles/chrony"]
+	path = bundles/chrony
+	url = git@github.com:rullmann/bundlewrap-chrony.git
