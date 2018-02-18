@@ -5,7 +5,7 @@ This repo provides an overview for my public [bundlewrap](http://bundlewrap.org/
 Most of the bundles have been tested with Fedora 26 and 27.
 
 Many of the bundles can work with CentOS or any other RHEL derivate as well.
-But tweaks may be required. For example the package `vnstat` is not available in the CentOS Repos. EPEL must be installed before the vnstat bundle can be used.
+But some changes may be required. For example the package `vnstat` is not available in the CentOS Repos. EPEL must be installed before the vnstat bundle can be used.
 
 ## Bundles
 
@@ -37,6 +37,7 @@ But tweaks may be required. For example the package `vnstat` is not available in
   * [PostgreSQL Server](https://github.com/rullmann/bundlewrap-postgresql)
   * [TEMPer](https://github.com/rullmann/bundlewrap-temper)
   * [tt-rss](https://github.com/rullmann/bundlewrap-ttrss)
+  * [xmr-stak](https://github.com/rullmann/bundlewrap-xmr-stak)
 
 * User management
   * [users](https://github.com/rullmann/bundlewrap-users)
@@ -68,4 +69,5 @@ git submodule add git@github.com:rullmann/bundlewrap-temper.git bundles/temper
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss
 git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users
 git submodule add git@github.com:rullmann/bundlewrap-vnstat.git bundles/vnstat
+git submodule add git@github.com:rullmann/bundlewrap-xmr-stak.git bundles/xmr-stak
 </pre>
