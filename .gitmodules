@@ -91,3 +91,6 @@
 [submodule "bundles/haproxy"]
 	path = bundles/haproxy
 	url = git@github.com:rullmann/bundlewrap-haproxy.git
+[submodule "bundles/atlassian-bamboo"]
+	path = bundles/atlassian-bamboo
+	url = git@github.com:rullmann/bundlewrap-atlassian-bamboo.git
