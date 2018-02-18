@@ -97,3 +97,6 @@
 [submodule "bundles/atlassian-confluence"]
 	path = bundles/atlassian-confluence
 	url = git@github.com:rullmann/bundlewrap-atlassian-confluence.git
+[submodule "bundles/atlassian-bitbucket"]
+	path = bundles/atlassian-bitbucket
+	url = git@github.com:rullmann/bundlewrap-atlassian-bitbucket.git
