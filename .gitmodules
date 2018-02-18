@@ -94,3 +94,6 @@
 [submodule "bundles/atlassian-bamboo"]
 	path = bundles/atlassian-bamboo
 	url = git@github.com:rullmann/bundlewrap-atlassian-bamboo.git
+[submodule "bundles/atlassian-confluence"]
+	path = bundles/atlassian-confluence
+	url = git@github.com:rullmann/bundlewrap-atlassian-confluence.git

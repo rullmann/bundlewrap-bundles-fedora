@@ -30,6 +30,7 @@ But some changes may be required. For example the package `vnstat` is not availa
 
 * Additional services
   * [Atlassian Bamboo](https://github.com/rullmann/bundlewrap-atlassian-bamboo)
+  * [Atlassian Confluence](https://github.com/rullmann/bundlewrap-atlassian-confluence)
   * [collectd monitoring](https://github.com/rullmann/bundlewrap-collectd)
   * [collectd Synology monitoring](https://github.com/rullmann/bundlewrap-collectd-synology)
   * [haproxy](https://github.com/rullmann/bundlewrap-haproxy)
@@ -53,6 +54,7 @@ But some changes may be required. For example the package `vnstat` is not availa
 
 <pre>
 git submodule add git@github.com:rullmann/bundlewrap-atlassian-bamboo.git bundles/atlassian-bamboo
+git submodule add git@github.com:rullmann/bundlewrap-atlassian-confluence.git bundles/atlassian-confluence
 git submodule add git@github.com:rullmann/bundlewrap-chrony.git bundles/chrony
 git submodule add git@github.com:rullmann/bundlewrap-collectd.git bundles/collectd
 git submodule add git@github.com:rullmann/bundlewrap-collectd-synology.git bundles/collectd-synology
