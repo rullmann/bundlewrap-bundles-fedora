@@ -21,6 +21,7 @@ But some changes may be required. For example the package `vnstat` is not availa
   * [firewalld](https://github.com/rullmann/bundlewrap-firewalld)
   * [Fish shell](https://github.com/rullmann/bundlewrap-fish)
   * [htop](https://github.com/rullmann/bundlewrap-htop)
+  * [lm-sensors](https://github.com/rullmann/bundlewrap-lm-sensors)
   * [smartmontools](https://github.com/rullmann/bundlewrap-smartmontools)
   * [OpenSSH server](https://github.com/rullmann/bundlewrap-openssh)
   * [python](https://github.com/rullmann/bundlewrap-python)
@@ -60,6 +61,7 @@ git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostna
 git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
 git submodule add git@github.com:rullmann/bundlewrap-jenkins.git bundles/jenkins
 git submodule add git@github.com:rullmann/bundlewrap-letsencrypt.git bundles/letsencrypt
+git submodule add git@github.com:rullmann/bundlewrap-lm-sensors.git bundles/lm-sensors
 git submodule add git@github.com:rullmann/bundlewrap-monit.git bundles/monit
 git submodule add git@github.com:rullmann/bundlewrap-nfs-server.git bundles/nfs-server
 git submodule add git@github.com:rullmann/bundlewrap-nginx.git bundles/nginx

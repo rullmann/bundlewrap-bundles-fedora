@@ -85,3 +85,6 @@
 [submodule "bundles/chrony"]
 	path = bundles/chrony
 	url = git@github.com:rullmann/bundlewrap-chrony.git
+[submodule "bundles/lm-sensors"]
+	path = bundles/lm-sensors
+	url = git@github.com:rullmann/bundlewrap-lm-sensors.git
