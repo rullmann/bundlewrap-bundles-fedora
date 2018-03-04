@@ -51,6 +51,12 @@ But some changes may be required. For example the package `vnstat` is not availa
 * User management
   * [users](https://github.com/rullmann/bundlewrap-users)
 
+* Monitoring
+  * [influxdb](https://github.com/rullmann/bundlewrap-influxdb)
+  * [telegraf](https://github.com/rullmann/bundlewrap-telegraf)
+  * [kapacitor](https://github.com/rullmann/bundlewrap-kapacitor)
+  * [grafana](https://github.com/rullmann/bundlewrap-grafana)
+
 ### Pick your bundles!
 
 <pre>
@@ -63,11 +69,14 @@ git submodule add git@github.com:rullmann/bundlewrap-collectd-synology.git bundl
 git submodule add git@github.com:rullmann/bundlewrap-dnf.git bundles/dnf
 git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld
 git submodule add git@github.com:rullmann/bundlewrap-fish.git bundles/fish
+git submodule add git@github.com:rullmann/bundlewrap-grafana.git bundles/grafana
 git submodule add git@github.com:rullmann/bundlewrap-haproxy.git bundles/haproxy
 git submodule add git@github.com:rullmann/bundlewrap-hddtemp.git bundles/hddtemp
 git submodule add git@github.com:rullmann/bundlewrap-hostname.git bundles/hostname
 git submodule add git@github.com:rullmann/bundlewrap-htop.git bundles/htop
+git submodule add git@github.com:rullmann/bundlewrap-influxdb.git bundles/influxdb
 git submodule add git@github.com:rullmann/bundlewrap-jenkins.git bundles/jenkins
+git submodule add git@github.com:rullmann/bundlewrap-kapacitor.git bundles/kapacitor
 git submodule add git@github.com:rullmann/bundlewrap-letsencrypt.git bundles/letsencrypt
 git submodule add git@github.com:rullmann/bundlewrap-lm-sensors.git bundles/lm-sensors
 git submodule add git@github.com:rullmann/bundlewrap-monit.git bundles/monit
@@ -82,6 +91,7 @@ git submodule add git@github.com:rullmann/bundlewrap-postgresql.git bundles/post
 git submodule add git@github.com:rullmann/bundlewrap-python.git bundles/python
 git submodule add git@github.com:rullmann/bundlewrap-smartmontools.git bundles/smartmontools
 git submodule add git@github.com:rullmann/bundlewrap-systemd.git bundles/systemd
+git submodule add git@github.com:rullmann/bundlewrap-telegraf.git bundles/telegraf
 git submodule add git@github.com:rullmann/bundlewrap-temper.git bundles/temper
 git submodule add git@github.com:rullmann/bundlewrap-ttrss.git bundles/tt-rss
 git submodule add git@github.com:rullmann/bundlewrap-users.git bundles/users

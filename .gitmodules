@@ -100,3 +100,15 @@
 [submodule "bundles/atlassian-bitbucket"]
 	path = bundles/atlassian-bitbucket
 	url = git@github.com:rullmann/bundlewrap-atlassian-bitbucket.git
+[submodule "bundles/telegraf"]
+	path = bundles/telegraf
+	url = git@github.com:rullmann/bundlewrap-telegraf.git
+[submodule "bundles/influxdb"]
+	path = bundles/influxdb
+	url = git@github.com:rullmann/bundlewrap-influxdb.git
+[submodule "bundles/grafana"]
+	path = bundles/grafana
+	url = git@github.com:rullmann/bundlewrap-grafana.git
+[submodule "bundles/kapacitor"]
+	path = bundles/kapacitor
+	url = git@github.com:rullmann/bundlewrap-kapacitor.git
