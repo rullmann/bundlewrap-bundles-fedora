@@ -33,6 +33,7 @@ But some changes may be required. For example the package `vnstat` is not availa
   * [Atlassian Bitbucket](https://github.com/rullmann/bundlewrap-atlassian-bitbucket)
   * [Atlassian Confluence](https://github.com/rullmann/bundlewrap-atlassian-confluence)
   * [collectd monitoring](https://github.com/rullmann/bundlewrap-collectd)
+  * [collectd monitoring as minimal version](https://github.com/rullmann/bundlewrap-collectd-minimal)
   * [collectd Synology monitoring](https://github.com/rullmann/bundlewrap-collectd-synology)
   * [haproxy](https://github.com/rullmann/bundlewrap-haproxy)
   * [hddtemp](https://github.com/rullmann/bundlewrap-hddtemp)
@@ -65,6 +66,7 @@ git submodule add git@github.com:rullmann/bundlewrap-atlassian-bitbucket.git bun
 git submodule add git@github.com:rullmann/bundlewrap-atlassian-confluence.git bundles/atlassian-confluence
 git submodule add git@github.com:rullmann/bundlewrap-chrony.git bundles/chrony
 git submodule add git@github.com:rullmann/bundlewrap-collectd.git bundles/collectd
+git submodule add git@github.com:rullmann/bundlewrap-collectd-minimal.git bundles/collectd-minimal
 git submodule add git@github.com:rullmann/bundlewrap-collectd-synology.git bundles/collectd-synology
 git submodule add git@github.com:rullmann/bundlewrap-dnf.git bundles/dnf
 git submodule add git@github.com:rullmann/bundlewrap-firewalld.git bundles/firewalld

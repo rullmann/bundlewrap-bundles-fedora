@@ -112,3 +112,6 @@
 [submodule "bundles/kapacitor"]
 	path = bundles/kapacitor
 	url = git@github.com:rullmann/bundlewrap-kapacitor.git
+[submodule "bundles/collectd-minimal"]
+	path = bundles/collectd-minimal
+	url = git@github.com:rullmann/bundlewrap-collectd-minimal.git
